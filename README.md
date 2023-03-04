@@ -1,6 +1,6 @@
 # Web UI for ChatGPT
 
-https://assistant.bloat.app
+https://assistant.thegptpodcast.app
 
 Ask questions from Open AI’s ChatGPT `gpt-3.5-turbo` engine
 
